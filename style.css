@@ -11,4 +11,34 @@ body {
 
 img{
     float: left;
+    margin-right: 10px;
+}
+
+.left{
+    float: left;
+    width: 300px;
+    padding: 1em;
+}
+
+.center{
+    float: left;
+    width: 300px;
+    padding: 1em;
+}
+
+.right{
+    float: left;
+    width: 300px;
+    padding: 1em;
+}
+
+#navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar li{
+    display: inline;
+    padding: 50px;
 }
