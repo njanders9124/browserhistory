@@ -31,7 +31,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +44,11 @@
       <workItem from="1582052671018" duration="43000" />
       <workItem from="1582053797575" duration="23000" />
       <workItem from="1582053833127" duration="2000" />
-      <workItem from="1582093515915" duration="1818000" />
+      <workItem from="1582093515915" duration="2095000" />
+      <workItem from="1582146269709" duration="28000" />
+      <workItem from="1582601501311" duration="2000" />
+      <workItem from="1582601538100" duration="44000" />
+      <workItem from="1582601591807" duration="4000" />
     </task>
     <servers />
   </component>
@@ -52,10 +56,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="167" key="SettingsEditor" timestamp="1582013413986">
+    <state x="461" y="167" key="SettingsEditor" timestamp="1582146291453">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582013413986" />
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582146291453" />
     <state x="143" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1582014136723">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
