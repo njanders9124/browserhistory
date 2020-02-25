@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="browserhistory" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -31,7 +34,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/browserhistory/index.html" useBuiltInWebServerPort="true">
@@ -59,7 +62,9 @@
       <workItem from="1582601501311" duration="2000" />
       <workItem from="1582601538100" duration="44000" />
       <workItem from="1582601591807" duration="4000" />
-      <workItem from="1582602214930" duration="383000" />
+      <workItem from="1582602214930" duration="553000" />
+      <workItem from="1582602784442" duration="377000" />
+      <workItem from="1582603175672" duration="2146000" />
     </task>
     <servers />
   </component>
@@ -67,10 +72,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="167" key="SettingsEditor" timestamp="1582146291453">
+    <state x="922" y="153" key="SettingsEditor" timestamp="1582603231221">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582146291453" />
+    <state x="922" y="153" key="SettingsEditor/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1582603231221" />
     <state x="143" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1582014136723">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
